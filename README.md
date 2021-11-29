@@ -18,7 +18,9 @@ Placeholder for project abstract (400 ascii characters)
 ## User Stories and Design Diagrams
 
 - [User Stories](https://github.com/GrantWoodwardColeman/gibby/blob/master/User%20Stories.md)
-- [Design Diagrams and Descriptions]()
+- [Design Diagrams D0](https://github.com/GrantWoodwardColeman/gibby/blob/master/Design%20Diagram%20D0.png)
+- [Design Diagrams D1](https://github.com/GrantWoodwardColeman/gibby/blob/master/Design%20Diagram%20D1.png)
+- [Design Diagrams D2](https://github.com/GrantWoodwardColeman/gibby/blob/master/Design%20Diagram%20D2.png)
 
 
 ## Project Tasks and Timeline
