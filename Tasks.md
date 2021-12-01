@@ -34,8 +34,7 @@
 
 
 ## Organizational
-- Make a List of Possible Breweries to Contact **[B]**
-- Draft a project proposal to give to breweries **[B]**
+
 - Elicit Requirements **[B]**
 - Create a Price Estimate **[I]**
 - Research Prototyping options (3D Printing/ 1819 Innovation Hub/ etc) **[I]**

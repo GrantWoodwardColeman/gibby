@@ -3,17 +3,17 @@
 ## Team Members
 - Grant Coleman | colemagw@mail.uc.edu
 - Bret Leupen | leupenba@mail.uc.edu
-- Isaac Measures | measureic@mail.uc.edu
+- Isaac Measures | measuric@mail.uc.edu
 
 ## Advisor
 
 - Dr. Fred Annexstein | fred.annexstein@uc.edu
 
 ## Project Abstract
-TODO Placeholder for project abstract (400 ascii characters)
+The product is a luxury “automatic kegerator” for in-home use. The target audience is beer and tech enthusiasts who are looking for a streamlined experience for their end of day comfort. Fundamentally, it’s a way to automatically dispense beer from a keg to a cup via an app.
 
 ## Project Description
-- [TODO Project Description]()
+- [Project Description](https://docs.google.com/document/d/14FJlD1y7Z8a87hFAIRjjmfxYEU2LfOc3DgnXHlzAxYE/edit?usp=sharing)
 
 ## User Stories and Design Diagrams
 
