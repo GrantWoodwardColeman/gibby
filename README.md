@@ -33,7 +33,7 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [Presentation](https://docs.google.com/presentation/d/1LspqDCCOSPxLeBFF3xDSaGWQpnqFFqF7Ef2mVgXcfuY/edit?usp=sharing)
 
 ## Self-Assement Essays
-- [TODO Grant]()
+- [Grant](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Individual%20Capstone%20Assessment%20Grant%20Coleman.docx)
 - [Bret](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Intro%20Essay%20Bret.pdf)
 - [Isaac](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Capstone%20Assessment.pdf)
 ## Professional Biographies
