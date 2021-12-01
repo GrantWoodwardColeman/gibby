@@ -35,7 +35,7 @@ TODO Placeholder for project abstract (400 ascii characters)
 ## Self-Assement Essays
 - [TODO Grant]()
 - [Bret](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Intro%20Essay%20Bret.pdf)
-- [TODO Isaac]()
+- [Isaac](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Capstone%20Assessment.pdf)
 ## Professional Biographies
 - [Grant](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Individual%20Capstone%20Assessment%20Grant%20Coleman.docx)
 - [Bret](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%201-%20Professional%20Biographies/professional_biography_leupen.md)
