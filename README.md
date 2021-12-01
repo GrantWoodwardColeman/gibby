@@ -3,7 +3,7 @@
 ## Team Members
 - Grant Coleman | colemagw@mail.uc.edu
 - Bret Leupen | leupenba@mail.uc.edu
-- Isaac Measures | measureic@mail.uc.edu
+- Isaac Measures | measuric@mail.uc.edu
 
 ## Advisor
 
