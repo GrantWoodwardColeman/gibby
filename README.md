@@ -39,7 +39,7 @@ TODO Placeholder for project abstract (400 ascii characters)
 ## Professional Biographies
 - [Grant](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Individual%20Capstone%20Assessment%20Grant%20Coleman.docx)
 - [Bret](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%201-%20Professional%20Biographies/professional_biography_leupen.md)
-- [TODO Isaac]()
+- [Isaac](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%201-%20Professional%20Biographies/ProfBio-Isaac%20Measures.md)
 
 ## Budget
 - [Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1w2jlTjJ9jT9XOLz7xi_5jjbGBE_e4pavgO6VPXg9OXg/edit?usp=sharing)
