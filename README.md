@@ -48,7 +48,7 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [Research](https://docs.google.com/document/d/1TlUSUaR-hcVcxEaOBj2Y39JZZ0Vn39BEZDgP52YVbRw/edit?usp=sharing)
 - [UI/UX Design Flows](https://www.figma.com/file/f3nx36Z4F3ORd0cKbmbGFr/Gibby-Flows?node-id=0%3A1)
 - [Project Constraints](https://docs.google.com/document/d/1hUxmf7I8_tPJfuHPs9dq5UN76dHJK9Naqqjlm4SWgik/edit?usp=sharing)
-- [TODO App Code Repo?]()
+- [App Code Repo]()
 - [MQTT Communication Prootocol](https://docs.google.com/document/d/1vAzYcD0am74--FAHn64gv--x1xtgJOL8saCaORcomEI/edit?usp=sharing)
 
 
