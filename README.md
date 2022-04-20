@@ -22,7 +22,7 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [Test Plan]()
 
 ## User Manual 
-- [User Manual]()  
+- [User Manual](https://github.com/GrantWoodwardColeman/gibby/blob/master/User%20Guide.md)  
 
 ## Final Presentation
 - [Slide Deck](https://github.com/GrantWoodwardColeman/gibby/blob/master/Spring%20Final%20Presentation%20Slides.pdf)  
@@ -43,8 +43,8 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [Hour Breakdown]()
 
 ## Code Repos
-- [App Code Repo]()
-- [Tap Pi Code Repo]()
+- [App Code Repo](https://github.com/GrantWoodwardColeman/Tappy)
+- [Tap Pi Code Repo](https://github.com/GrantWoodwardColeman/gibby/tree/master/Tap%20Pi%20Python%20Files)
 
 ## CAD
 - [CAD Models]()
