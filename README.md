@@ -35,7 +35,7 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [Bret Fall](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Intro%20Essay%20Bret.pdf) 
 - [Grant Fall](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Individual%20Capstone%20Assessment%20Grant%20Coleman.docx)   
 - [Isaac Fall](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Capstone%20Assessment.pdf)    
-- [Bret Spring]() 
+- [Bret Spring](https://github.com/GrantWoodwardColeman/gibby/blob/master/Spring%20Asessment-%20Leupen.pdf) 
 - [Grant Spring]()   
 - [Isaac Spring]()  
 
