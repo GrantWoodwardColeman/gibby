@@ -25,16 +25,16 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [User Manual]()  
 
 ## Final Presentation
-- [Slide Deck]()  
+- [Slide Deck](https://github.com/GrantWoodwardColeman/gibby/blob/master/Spring%20Final%20Presentation%20Slides.pdf)  
 - [Presentation Video](https://drive.google.com/file/d/1ULgjPCCKcKMNAC4WVI8TZPNYP33ZizTD/view?usp=sharing)  
 
 ## Final Expo Poster
-- [Expo Poster]()   
+- [Expo Poster](https://github.com/GrantWoodwardColeman/gibby/blob/master/Senior%20Design%20Poster.pdf)   
 
 ## Self Assessments
-- [Bret Fall]() 
-- [Grant Fall]()   
-- [Isaac Fall]()    
+- [Bret Fall](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Intro%20Essay%20Bret.pdf) 
+- [Grant Fall](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Individual%20Capstone%20Assessment%20Grant%20Coleman.docx)   
+- [Isaac Fall](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Capstone%20Assessment.pdf)    
 - [Bret Spring]() 
 - [Grant Spring]()   
 - [Isaac Spring]()  
