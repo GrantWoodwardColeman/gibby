@@ -10,7 +10,7 @@
 - Dr. Fred Annexstein | fred.annexstein@uc.edu
 
 ## Project Abstract
-Tappy is an app-controlled Raspberry Pi/Pi Hat/Servo module that allows a traditional tap to be remotely activated. The app allows the type of beer, amount, and many other statistics to be displayed/selected while a physical screen relays the current state Tappy is in to the user.
+The product is a luxury “automatic kegerator” for in-home use. The target audience is beer and tech enthusiasts who are looking for a streamlined experience for their end of day comfort. Fundamentally, it’s a way to automatically dispense beer from a keg to a cup via an app.
 
 ## Project Description
 - [Project Description](https://docs.google.com/document/d/14FJlD1y7Z8a87hFAIRjjmfxYEU2LfOc3DgnXHlzAxYE/edit?usp=sharing)
