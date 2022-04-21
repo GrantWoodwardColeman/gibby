@@ -19,7 +19,7 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [UI/UX Flows](https://www.figma.com/file/f3nx36Z4F3ORd0cKbmbGFr/Gibby-Flows?node-id=0%3A1) 
 
 ## Test Plan and Results
-- [Test Plan]()
+- [Test Plan](https://github.com/GrantWoodwardColeman/gibby/blob/master/Test%20Plan.pdf)
 
 ## User Manual 
 - [User Manual](https://github.com/GrantWoodwardColeman/gibby/blob/master/User%20Guide.md)  
@@ -40,14 +40,14 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [Isaac Spring](https://github.com/GrantWoodwardColeman/gibby/blob/master/SeniorDesignSelfAssessment_Isaac_Measures.pdf)  
 
 ## Hours
-- [Hour Breakdown]()
+- [Hour Breakdown](https://github.com/GrantWoodwardColeman/gibby/blob/master/Hours.pdf)
 
 ## Code Repos
 - [App Code Repo](https://github.com/GrantWoodwardColeman/Tappy)
 - [Tap Pi Code Repo](https://github.com/GrantWoodwardColeman/gibby/tree/master/Tap%20Pi%20Python%20Files)
 
 ## CAD
-- [CAD Models]()
+- [CAD Models](https://github.com/GrantWoodwardColeman/gibby/tree/master/CAD%20Designs)
 
 ## Budget
 - [Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1w2jlTjJ9jT9XOLz7xi_5jjbGBE_e4pavgO6VPXg9OXg/edit?usp=sharing)
