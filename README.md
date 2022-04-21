@@ -36,8 +36,8 @@ The product is a luxury “automatic kegerator” for in-home use. The target au
 - [Grant Fall](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Individual%20Capstone%20Assessment%20Grant%20Coleman.docx)   
 - [Isaac Fall](https://github.com/GrantWoodwardColeman/gibby/blob/master/Homework%20Assignments%20/Week%203-%20Personal%20Essays/Capstone%20Assessment.pdf)    
 - [Bret Spring](https://github.com/GrantWoodwardColeman/gibby/blob/master/Spring%20Asessment-%20Leupen.pdf) 
-- [Grant Spring]()   
-- [Isaac Spring]()  
+- [Grant Spring](https://github.com/GrantWoodwardColeman/gibby/blob/master/Evaluation%20Grant.pdf)   
+- [Isaac Spring](https://github.com/GrantWoodwardColeman/gibby/blob/master/SeniorDesignSelfAssessment_Isaac_Measures.pdf)  
 
 ## Hours
 - [Hour Breakdown]()
